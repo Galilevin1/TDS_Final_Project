@@ -1,6 +1,11 @@
-plotly.express
+plotly
+collections
+math
+scikit-learn
 xgboost
 imblearn
 fastcluster
-scikit-learn
-Counter
+os
+ipywidgets
+IPython
+joblib
